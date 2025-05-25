@@ -110,7 +110,7 @@ export default function Resume() {
         {/* Download Resume Button */}
         <div className="flex justify-center mb-12">
           <a 
-            href="/path-to-your-resume.pdf" 
+            href="/pdf/merry.CV.pdf" 
             target="_blank"
             className="flex items-center px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-md transition-colors shadow-md"
             download

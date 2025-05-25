@@ -38,17 +38,17 @@ export default function Projects() {
       id: 4,
       title: "Task Management Dashboard",
       description: "A productivity app to manage tasks, track progress, and collaborate with team members.",
-      image: "/api/placeholder/400/250",
-      technologies: ["React", "Firebase", "Material UI"],
+      image: "/images/task.png",
+      technologies: ["Flask", "HTML", "CSS","JavaScript"],
       
-      githubLink: "https://github.com/yourusername/project",
+      githubLink: "https://github.com/merryyxxx/taskmanager",
       category: "Web App"
     },
     {
       id: 5,
       title: "AI Code Grader- AUTOGRADERX",
       description: "An interactive tool to grade and improve our code.",
-      image: "/images/code.png",
+      image: "/images/grade.jpg",
       technologies: ["Python", "Flask", "SQlite3", "HTML/CSS/JAVA"],
       
       githubLink: "https://github.com/merryyxxx/AutoGraderX-Backend",
