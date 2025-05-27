@@ -80,21 +80,21 @@ export default function Resume() {
       },
       {
         id: 2,
-        name: "AWS Certified Developer",
-        issuer: "Amazon Web Services",
-        date: "2021"
+        name: "3 months python course",
+        issuer: "Incessant Rain Academy",
+        date: "2024"
       },
       {
         id: 3,
         name: "React Advanced Concepts",
         issuer: "Frontend Masters",
-        date: "2020"
+        date: "2025"
       },
       {
         id: 4,
         name: "Python for Data Science and Machine Learning",
         issuer: "Coursera",
-        date: "2019"
+        date: "2024"
       }
     ]
   };
